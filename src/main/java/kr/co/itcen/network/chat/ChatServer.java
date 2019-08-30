@@ -11,7 +11,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class ChatServer {
-	public static final String SERVER_IP = "192.168.1.17";
+	public static final String SERVER_IP = "192.168.1.118";
 	private static ServerSocket serverSocket;
 	private static int PORT = 7000;
 	private static PrintWriter printWriter;
